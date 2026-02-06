@@ -60,5 +60,3 @@ Models were compared based on prediction accuracy and correlation strength.
 
 ---
 
-## Repository Contents
-
