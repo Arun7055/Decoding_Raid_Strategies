@@ -41,7 +41,13 @@ Models were compared based on prediction accuracy and correlation strength.
 
 ## Key Findings
 
-- High-impact raids (Super Raids, Do-or-Die Raids, Super 10s) show strong correlation with team ranking.
+Our analysis of Pro Kabaddi League data revealed the **relative impact of different raid situations on match outcomes**.
+
+**Order of impact (highest to lowest):**
+1. Super Raids
+2. Do-or-Die Raids
+3. Super 10 performances
+4. Super Tackles
 - Offensive parameters influence match outcomes more than defensive parameters like Super Tackles.
 - Data-driven insights can help coaches:
   - Optimize lineups  
@@ -55,7 +61,7 @@ Models were compared based on prediction accuracy and correlation strength.
 - Python  
 - Pandas  
 - Scikit-learn  
-- Matplotlib / Seaborn (if used)  
+- Matplotlib   
 - Sports Analytics Techniques  
 
 ---
